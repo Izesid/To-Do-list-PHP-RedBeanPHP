@@ -29,7 +29,7 @@ if ( isset($data['btn']) )
 		setcookie("login_cookie", $data['creator'], time() + (1000 * 60 * 60 * 24 * 30), '/');
 
 		// Перенаправляю пользователя на гравную страницу
-		header('Location: index.php');
+		header('Location: index.php'); 
 
 
 	} else 
