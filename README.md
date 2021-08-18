@@ -26,4 +26,4 @@ delete.php ![delete](https://img.shields.io/badge/delete-php-orange)
 
 Пока этого хватит с меня. Если вы видите что можете исправить или доработать этот код, то милости просим.
 
-My VK: [![VK](https://img.shields.io/badge/VK-31d100?color=informational)](https://vk.com/mayormax)
+My VK: [![VK](https://img.shields.io/badge/VK-31d100?color=informational)](https://vk.com/id349939345)
